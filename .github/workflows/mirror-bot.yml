@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
    
 env:
-  GitHubMail: techharz@gmail.com
-  GitHubName: techharz
+  GitHubMail: soleus71@gmail.com
+  GitHubName: Soleus7
 
 jobs:
   debug:
